@@ -1,7 +1,7 @@
 AI Excel Data Analyzer (Groq + Python) :-
 
 Automatically analyze Excel data, generate charts, and extract business insights using AI.
-This project uses Groq LLMs to intelligently understand datasets, create visualization code, and deliver meaningful insights — just like a real data analyst 🤯
+This project uses Groq LLMs to intelligently understand datasets, create visualization code, and deliver meaningful insights — just like a real data analyst
 
 Steps :-
 
