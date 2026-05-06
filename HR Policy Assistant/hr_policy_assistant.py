@@ -264,8 +264,7 @@ schema = create_schema(schema_name="hr_policy_schema",
 create_collection(collection_name="hr_policy_assistant",
                   schema=schema, vector_db_client=milvus_db_client)
 
-#insert_embedding(collection_name="hr_policy_assistant",
-# nodes=nodes, model=model, vector_db_client=milvus_db_client)
+insert_embedding(collection_name="hr_policy_assistant", nodes=nodes, model=model, vector_db_client=milvus_db_client)
 
 query = str(input("Enter HR Policy Query :- "))
 
