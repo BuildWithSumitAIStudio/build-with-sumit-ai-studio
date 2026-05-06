@@ -1,0 +1,4 @@
+llama-index==0.14.21
+sentence-transformers==5.4.1
+groq==0.37.1
+pymilvus==2.6.12
