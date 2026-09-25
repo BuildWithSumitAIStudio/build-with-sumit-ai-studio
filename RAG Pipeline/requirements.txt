@@ -1,0 +1,8 @@
+pinecone
+llama-index
+llama-index-vector-stores-pinecone
+llama-index-embeddings-huggingface
+llama-index-llms-groq
+pypdf
+llama-index-readers-file
+python-dotenv
